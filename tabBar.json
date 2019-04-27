@@ -8,14 +8,14 @@
         },
         "skinVersion": "1.0.4",
         "tabBarImg": {
-            "thirdImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/thirdSelected0.png",
-            "fourImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/fourSelected0.png",
-            "fourImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/fourNormal0.png",
-            "firstImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/firstNormal0.png",
-            "secondImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/secondSelected0.png",
-            "thirdImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/thirdNormal0.png",
-            "firstImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/firstSelected0.png",
-            "secondImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/secondNormal0.png"
+            "thirdImgSelected": "https://1005213565.github.io/OC_changeSkin/imgs/thirdSelected0.png",
+            "fourImgSelected": "https://1005213565.github.io/OC_changeSkin/imgs/fourSelected0.png",
+            "fourImgNormal": "https://1005213565.github.io/OC_changeSkin/imgs/fourNormal0.png",
+            "firstImgNormal": "https://1005213565.github.io/OC_changeSkin/imgs/firstNormal0.png",
+            "secondImgSelected": "https://1005213565.github.io/OC_changeSkin/imgs/secondSelected0.png",
+            "thirdImgNormal": "https://1005213565.github.io/OC_changeSkin/imgs/thirdNormal0.png",
+            "firstImgSelected": "https://1005213565.github.io/OC_changeSkin/imgs/firstSelected0.png",
+            "secondImgNormal": "https://1005213565.github.io/OC_changeSkin/imgs/secondNormal0.png"
         },
         "tabBarTitleColor": {
             "thirdColorSelected": "EE82EE",
