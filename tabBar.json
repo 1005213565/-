@@ -1,0 +1,33 @@
+{
+    "data": {
+        "tabBarTitle": {
+            "firstTitle": "新",
+            "secondTitle": "年",
+            "thirdTitle": "快",
+            "fourTitle": "乐"
+        },
+        "skinVersion": "1.0.4",
+        "tabBarImg": {
+            "thirdImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/thirdSelected0.png",
+            "fourImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/fourSelected0.png",
+            "fourImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/fourNormal0.png",
+            "firstImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/firstNormal0.png",
+            "secondImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/secondSelected0.png",
+            "thirdImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/thirdNormal0.png",
+            "firstImgSelected": "https://github.com/1005213565/OC_changeSkin/imgs/firstSelected0.png",
+            "secondImgNormal": "https://github.com/1005213565/OC_changeSkin/imgs/secondNormal0.png"
+        },
+        "tabBarTitleColor": {
+            "thirdColorSelected": "EE82EE",
+            "firstColorSelected": "EE82EE",
+            "secondColorNormal": "F5DEB3",
+            "thirdColorNormal": "F5DEB3",
+            "firstColorNormal": "F5DEB3",
+            "secondColorSelected": "EE82EE",
+            "fourColorNormal": "F5DEB3",
+            "fourColorSelected": "EE82EE"
+        },
+        "isHaveSkin": false
+    },
+    "success": true
+}
