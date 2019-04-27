@@ -27,7 +27,7 @@
             "fourColorNormal": "F5DEB3",
             "fourColorSelected": "EE82EE"
         },
-        "isHaveSkin": false
+        "isHaveSkin": true
     },
     "success": true
 }
